@@ -1,0 +1,3 @@
+[submodule "IVT23"]
+	path = IVT23
+	url = https://github.com/MaximNovgorodov/IVT23.git
